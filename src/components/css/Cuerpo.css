@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  background-color: rgb(207, 204, 204);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+  background-color: rgb(43, 97, 245);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.navbar a{
+  padding: 0px 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+}
+
+.logotemp{
+  color: red;
+  font-size: 5em;
+}
+
+.PartidosSiguientes{
+  overflow-x: scroll;
+  width: 100%;
+  display: flex;
+}
+.PrimerCuadro{
+  margin-top: 120px;
+  display: block;
+}
+.PrimerCuadro h3{
+  margin-left: 20px;
+  font-size: 1em;
+  margin-bottom: 0px;
+  color: rgb(82, 82, 82);
+}
+.SegundoCuadro{
+  display: block;
+}
+.SegundoCuadro h3{
+  margin-left: 20px;
+  font-size: 1em;
+  margin-bottom: 0px;
+  color: rgb(82, 82, 82);
+}
+.TercerCuadro{
+  display: block;
+  margin-bottom: 100px;
+}
+.TercerCuadro h3{
+  margin-top: 440px;
+  margin-left: 10px;
+}
+.Hero{
+  margin-top: 20px;
+  background-color: aliceblue;
+  height: 400px;
+  width: 100%;
+  position: absolute;
+}

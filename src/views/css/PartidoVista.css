@@ -1,0 +1,95 @@
+.PartidoVistaCuerpo{
+    margin-top: 80px;
+    padding: 0px 20px;
+    background-color: aliceblue;
+    margin: 116px 16px 16px 16px;
+    padding: 30px;
+}
+.TitulosPartidoCuadroVista{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px;
+    padding-bottom: 10px;
+}
+.InfoCampeonatoPartido p{
+    margin: 0;
+    padding: 0;
+    font-size: 1.1em;
+}
+
+.FechaInfoPartido p{
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+}
+.VersusPartidoVista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+.EquipoUno{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.EquipoUno p{
+    margin: 0;
+    padding: 10px;
+    font-size: 1.5em;
+    color: blue;
+}
+.EquipoDos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.EquipoDos p{
+    margin: 0;
+    padding: 10px;
+    font-size: 1.5em;
+    color: blue;
+}
+
+.PartidoVistaCuerpoDos{
+    padding: 0px 20px;
+    background-color: aliceblue;
+    margin: 10px 16px 16px 16px;
+    padding: 10px 10px;
+}
+.BotonesPartidoVista{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.BotonesPartidoVista p{
+    background-color: rgb(161, 161, 161);
+    padding: 20px 0px;
+    width: 24%;
+    margin: 0px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.BotonesPartidoVista p:hover{
+    background-color: rgb(54, 54, 54);
+    padding: 20px 20px;
+    color: white;
+}
+.SetsEquiposPartidoVista{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.NumeroSetPartidoVista{
+    font-size: 2.2em;
+    margin: 0px 14px;
+    
+}
+.SetsEquipoUno{
+    display: flex;
+}
+.SetsEquipoDos{
+    display: flex;
+}

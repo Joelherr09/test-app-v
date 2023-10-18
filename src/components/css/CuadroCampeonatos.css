@@ -1,0 +1,40 @@
+.CuadroCampeonato{
+    background-color: aliceblue;
+    padding: 16px 20px;
+    margin-top: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+.CuadroCampeonato h2{
+    margin: 0px 10px; 
+    padding: 0px;
+}
+.BottomCamp{
+    margin-top: 16px;
+}
+.BottomCuadroReal{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+.BottomCuadroReal p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.2em;
+}
+.BottomCuadroCampeonato{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+.BottomCuadroCampeonato p{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(100, 100, 100);
+}
+.EstadoCamp{
+    color: red;
+}

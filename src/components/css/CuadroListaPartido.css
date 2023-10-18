@@ -1,0 +1,53 @@
+.CuadroListaPartido{
+    background-color: aliceblue;
+    padding: 8px 20px;
+    margin: 4px 20px;
+    border-left: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.CuadroListaPartido p{
+    font-size: 1.2em;
+    margin: 0px;
+    padding-left: 10px;
+    width: 80px;
+}
+.EquiposContraLista{
+    width: 200px;
+}
+.EquipoUnoLista{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.EquipoUnoLista h2{
+    padding: 0;
+    margin: 0;
+    font-size: 1.3em;
+}
+.EquipoUnoLista p{
+    width: 20px;
+    font-size: 1.2em;
+}
+
+.EquipoDosLista{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.EquipoDosLista h2{
+    padding: 0;
+    margin: 0;
+    font-size: 1.3em;
+}
+.EquipoDosLista p{
+    width: 20px;
+    font-size: 1.2em;
+}
+.TorneoList{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 60px;
+}

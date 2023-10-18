@@ -1,0 +1,63 @@
+
+.ContainerTopEquipo{
+    margin-top: 0px;
+    background-color: rgb(98, 179, 255);
+    min-height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 50px 0px;
+    border-bottom: 1px solid rgb(168, 168, 168);
+}
+.FotoPerfilEquipo{
+    min-height: 100px;
+    min-width: 100px;
+    background-color: aliceblue;
+    margin-left: 10px;
+    border: 1px solid gray;
+}
+.InfoPerfilEquipo{
+    margin-left: 20px;
+}
+.InfoPerfilEquipo p{
+    margin-top: -10px;
+    font-size: 1.1em;
+}
+.TituloHistorialEquipoVista{
+    margin: 20px 15px 5px 20px;
+    color: rgb(36, 36, 36);
+}
+.JugadoresEquipoVista{
+    padding: 0px 20px;
+    background-color: aliceblue;
+    margin: 16px 16px 16px 16px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.JugadoresEquipoVista > div:nth-of-type(2) {
+    order: -1;
+}
+
+.JugadorEquipoVistaComp{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: white;
+    width: 50%;
+    padding: 0px 10px;
+    border: 1px solid gray;
+    margin: 4px;
+}
+.FotoPerfilJugador{
+    background-color: antiquewhite;
+    border: 1px solid gray;
+    min-width: 50px;
+    min-height: 50px;
+}
+.NombreJugador p{
+    font-size: 0.8em;
+    padding-left: 6px;
+    margin: 4px 8px;
+}

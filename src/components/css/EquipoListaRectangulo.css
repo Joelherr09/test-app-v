@@ -1,0 +1,32 @@
+.CuerpoListaEquipos{
+    background-color: aliceblue;
+    padding: 16px 20px;
+    margin-top: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.CuerpoListaEquipos p{
+    width: 40px;
+    font-size: 2em;
+    padding: 0px 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+
+.InfoLista h1{
+    padding: 0;
+    margin: 0;
+    font-size: 1.4em;
+}
+.InfoLista h3{
+    color: rgb(138, 136, 136);
+    padding: 0;
+    margin: 0;
+}
