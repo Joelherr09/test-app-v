@@ -8,10 +8,9 @@ function Navbar() {
       <div >
         <nav class="navbar">
           <a href="/">Inicio</a>
-          <a href="/campeonatos">Campeonatos</a>
-
-          <a href="/listas">Equipos</a>
-          <a href="/partidos/">Partidos</a>
+          <Link to={`/campeonatos/`}><a href="">Campeonatos</a></Link>
+          <Link to={`/listas/`}><a href="/listas">Equipos</a></Link>
+          <Link to={`/partidos/`}><a href="/partidos/">Partidos</a></Link>
         </nav>
       </div>
 
