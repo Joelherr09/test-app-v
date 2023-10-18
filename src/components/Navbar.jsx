@@ -6,12 +6,13 @@ function Navbar() {
   return (
     <>
       <div >
-        <nav class="navbar">
-          <a href="/">Inicio</a>
-          <Link to={`/campeonatos/`}><a href="">Campeonatos</a></Link>
-          <Link to={`/listas/`}><a href="/listas">Equipos</a></Link>
-          <Link to={`/partidos/`}><a href="/partidos/">Partidos</a></Link>
-        </nav>
+        <div class="navbar">
+        
+          <Link to={`/`} style={{color: "white", fontSize: "1rem", width: "100px", display: "flex", alignItems: "center", justifyContent: "center" }}><p >Inicio</p></Link>
+          <Link to={`/campeonatos/`} style={{color: "white", fontSize: "1rem", width: "100px", display: "flex", alignItems: "center", justifyContent: "center" }}><p>Campeonatos</p></Link>
+          <Link to={`/listas/`} style={{color: "white", fontSize: "1rem", width: "100px", display: "flex", alignItems: "center", justifyContent: "center" }}><p>Equipos</p></Link>
+          <Link to={`/partidos/`} style={{color: "white", fontSize: "1rem", width: "100px", display: "flex", alignItems: "center", justifyContent: "center" }}><p>Partidos</p></Link>
+        </div>
       </div>
 
     </>

@@ -9,6 +9,12 @@
   top: 0;
 }
 .navbar a{
-  padding: 0px 20px;
-  font-size: 2em;
+  padding: 0px 8px;
+  font-size: 2rem;
+}
+
+@media (max-width: 768px) {
+  .navbar-link {
+    font-size: 0.8rem;
+  }
 }
