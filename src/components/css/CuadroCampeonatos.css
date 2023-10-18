@@ -9,6 +9,7 @@
 .CuadroCampeonato h2{
     margin: 0px 10px; 
     padding: 0px;
+    font-size: 1.2rem;
 }
 .BottomCamp{
     margin-top: 16px;
@@ -22,7 +23,7 @@
 .BottomCuadroReal p{
     margin: 0px;
     padding: 0px;
-    font-size: 1.2em;
+    font-size: 0.9rem;
 }
 .BottomCuadroCampeonato{
     display: flex;

@@ -13,7 +13,7 @@ function Listas() {
 
   return (
     <div className='ListasCuerpo'>
-        <h1 className='TituloListas'>Lista de Equipos</h1>
+        <h2 className='TituloListas'>Lista de Equipos</h2>
         <hr />
         <div className="ListaEquipos">
             {ListaEquipos}

@@ -1,5 +1,5 @@
 .ListasCuerpoCampeonatos{
-    margin-top: 100px;
+    margin-top: 80px;
     width: 100%;
     margin-bottom: 100px;
 }
@@ -9,7 +9,7 @@
     margin: 0px;
 }
 .TituloListasCampeonatos{
-    margin-top: 120px;
+    margin-top: 90px;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -1,28 +1,28 @@
 .CuadroPartidoTerminado{
     background-color: aliceblue;
-    height: 116px;
-    min-width: 200px;
+    height: 96px;
+    min-width: 180px;
     display: block;
     margin: 10px 0px 10px 10px;
     position: inherit;
     border-left: 3px solid red;
-    padding: 10px 20px 20px;
+    padding: 0px 12px 12px;
 }
 .CuadroPartidoTerminado:hover{
     background-color: rgb(182, 221, 255);
-    height: 116px;
-    min-width: 200px;
+    height: 96px;
+    min-width: 180px;
     display: block;
     margin: 10px 0px 10px 10px;
     position: inherit;
     border-left: 3px solid red;
-    padding: 10px 20px 20px;
+    padding: 0px 12px 12px;
 }
 .CuadroPartidoTerminado hr{
     color: aliceblue;
 }
 .CuadroPartidoTerminado h4{
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     color: rgb(83, 83, 83);
     margin-left: 8px;
     display: block;

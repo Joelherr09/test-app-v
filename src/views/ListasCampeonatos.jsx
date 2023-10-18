@@ -11,7 +11,7 @@ function ListasCampeonatos() {
 
   return (
     <div className='ListasCuerpoCampeonatos'>
-        <h1 className='TituloListasCampeonatos'>Lista de Campeonatos</h1>
+        <h2 className='TituloListasCampeonatos'>Lista de Campeonatos</h2>
         <hr />
         <div className="ListaCampeonatos">
             {ListaCampeonatos}

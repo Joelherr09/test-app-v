@@ -10,7 +10,7 @@ function ListaPartidos() {
 
   return (
     <div className='ListasCuerpo'>
-        <h1 className='TituloListas'>Lista de Partidos</h1>
+        <h2 className='TituloListas'>Lista de Partidos</h2>
         <hr />
         <div className="ListaEquipos">
             {ListaPartidos}
