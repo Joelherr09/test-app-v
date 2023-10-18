@@ -11,7 +11,7 @@
 }
 .CuerpoListaEquipos p{
     width: 40px;
-    font-size: 2em;
+    font-size: 2rem;
     padding: 0px 26px;
     display: flex;
     align-items: center;
@@ -23,7 +23,7 @@
 .InfoLista h1{
     padding: 0;
     margin: 0;
-    font-size: 1.4em;
+    font-size: 1.4rem;
 }
 .InfoLista h3{
     color: rgb(138, 136, 136);

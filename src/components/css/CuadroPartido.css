@@ -23,7 +23,7 @@
     color: aliceblue;
 }
 .CuadroPartido h4{
-    font-size: 0.9em;
+    font-size: 0.9rem;
     color: rgb(83, 83, 83);
     margin-left: 8px;
     display: block;
@@ -39,7 +39,7 @@
     
 }
 .equipo p{
-    font-size: 1.2em;
+    font-size: 1.2rem;
     margin: 2px 4px;
 }
 .equipo-footer{
@@ -49,6 +49,6 @@
     margin: 0px 4px;
 }
 .equipo-footer p{
-    font-size: 1em;
+    font-size: 1rem;
     margin: 0;
 }

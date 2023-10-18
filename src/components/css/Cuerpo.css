@@ -14,12 +14,12 @@ body{
   padding: 0px 20px;
   text-decoration: none;
   color: white;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 .logotemp{
   color: red;
-  font-size: 5em;
+  font-size: 5rem;
 }
 
 .PartidosSiguientes{
@@ -33,7 +33,7 @@ body{
 }
 .PrimerCuadro h3{
   margin-left: 20px;
-  font-size: 1em;
+  font-size: 1rem;
   margin-bottom: 0px;
   color: rgb(82, 82, 82);
 }
@@ -42,7 +42,7 @@ body{
 }
 .SegundoCuadro h3{
   margin-left: 20px;
-  font-size: 1em;
+  font-size: 1rem;
   margin-bottom: 0px;
   color: rgb(82, 82, 82);
 }

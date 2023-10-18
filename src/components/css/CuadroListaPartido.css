@@ -8,7 +8,7 @@
     justify-content: flex-start;
 }
 .CuadroListaPartido p{
-    font-size: 1.2em;
+    font-size: 1.2rem;
     margin: 0px;
     padding-left: 10px;
     width: 80px;
@@ -24,11 +24,11 @@
 .EquipoUnoLista h2{
     padding: 0;
     margin: 0;
-    font-size: 1.3em;
+    font-size: 1.3rem;
 }
 .EquipoUnoLista p{
     width: 20px;
-    font-size: 1.2em;
+    font-size: 1.2rem;
 }
 
 .EquipoDosLista{
@@ -39,11 +39,11 @@
 .EquipoDosLista h2{
     padding: 0;
     margin: 0;
-    font-size: 1.3em;
+    font-size: 1.3rem;
 }
 .EquipoDosLista p{
     width: 20px;
-    font-size: 1.2em;
+    font-size: 1.2rem;
 }
 .TorneoList{
     display: flex;
