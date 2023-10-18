@@ -7,7 +7,7 @@ const partidos = [
         hora: "15:30",
         lugar: "Polideportivo",
         estado: "terminado",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [18, 17],
@@ -27,7 +27,7 @@ const partidos = [
         hora: "17:00",
         lugar: "Polideportivo",
         estado: "terminado",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [19, 22],
@@ -47,7 +47,7 @@ const partidos = [
         hora: "18:30",
         lugar: "Polideportivo",
         estado: "terminado",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [25, 25],
@@ -67,7 +67,7 @@ const partidos = [
         hora: "09:00",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",        
+        campeonato: "LDESD",        
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -87,7 +87,7 @@ const partidos = [
         hora: "10:30",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -107,7 +107,7 @@ const partidos = [
         hora: "12:00",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -127,7 +127,7 @@ const partidos = [
         hora: "13:30",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -147,7 +147,7 @@ const partidos = [
         hora: "15:00",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -167,7 +167,7 @@ const partidos = [
         hora: "16:30",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -187,7 +187,7 @@ const partidos = [
         hora: "18:00",
         lugar: "Polideportivo",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -207,7 +207,7 @@ const partidos = [
         hora: "09:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -227,7 +227,7 @@ const partidos = [
         hora: "10:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -247,7 +247,7 @@ const partidos = [
         hora: "12:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -267,7 +267,7 @@ const partidos = [
         hora: "13:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -287,7 +287,7 @@ const partidos = [
         hora: "15:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -307,7 +307,7 @@ const partidos = [
         hora: "16:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -327,7 +327,7 @@ const partidos = [
         hora: "18:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -347,7 +347,7 @@ const partidos = [
         hora: "09:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -367,7 +367,7 @@ const partidos = [
         hora: "10:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -387,7 +387,7 @@ const partidos = [
         hora: "12:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESV",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -407,7 +407,7 @@ const partidos = [
         hora: "13:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -427,7 +427,7 @@ const partidos = [
         hora: "15:00",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -447,7 +447,7 @@ const partidos = [
         hora: "16:30",
         lugar: "Techado TB",
         estado: "proximo",
-        campeonato: "LDES",
+        campeonato: "LDESD",
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],

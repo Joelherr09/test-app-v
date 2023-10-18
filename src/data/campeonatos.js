@@ -5,7 +5,7 @@ const campeonatos = [
         estado: "En curso",
         premio: "$300.000",
         ciudad: "La Serena",
-        siglas: "LDES",
+        siglas: "LDESV",
         participantes: {
             equipo_1: {
                 name: "Inacap Varone",
@@ -29,12 +29,12 @@ const campeonatos = [
 
     },
     {
-        id: "1",
+        id: "2",
         nombre: "Liga De Educación Superior Damas",
         estado: "En curso",
         premio: "$300.000",
         ciudad: "La Serena",
-        siglas: "LDES",
+        siglas: "LDESD",
         participantes: {
             equipo_1: {
                 name: "Inacap Damas",
