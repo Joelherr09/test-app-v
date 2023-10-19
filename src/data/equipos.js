@@ -4,6 +4,10 @@ const equipos = [
         name: "Cerberus Club",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -39,6 +43,10 @@ const equipos = [
         name: "Club Voley Coquimbo",
         ciudad: "Coquimbo",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -74,6 +82,10 @@ const equipos = [
         name: "Club Voleyvalsol",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -109,6 +121,10 @@ const equipos = [
         name: "Club Joga Volei",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -144,6 +160,10 @@ const equipos = [
         name: "Club Aukanes Volley",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -179,6 +199,10 @@ const equipos = [
         name: "Club Kau Voley",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -214,6 +238,10 @@ const equipos = [
         name: "Club Planeta Voley",
         ciudad: "Coquimbo",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -249,6 +277,10 @@ const equipos = [
         name: "Club Free Voley",
         ciudad: "Coquimbo",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -284,6 +316,10 @@ const equipos = [
         name: "Club Legacy Voley",
         ciudad: "Coquimbo",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -319,6 +355,10 @@ const equipos = [
         name: "Club Dream Voley",
         ciudad: "Coquimbo",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -354,6 +394,10 @@ const equipos = [
         name: "Club Ace Voley Ovalle",
         ciudad: "Ovalle",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -389,6 +433,10 @@ const equipos = [
         name: "Club Yesterday",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -424,6 +472,10 @@ const equipos = [
         name: "Club Zen Voley",
         ciudad: "Ovalle",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -459,6 +511,10 @@ const equipos = [
         name: "Club Ravens Volei",
         ciudad: "La Serena",
         tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -494,6 +550,10 @@ const equipos = [
         name: "Inacap Varones",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -529,6 +589,10 @@ const equipos = [
         name: "Inacap Damas",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -564,6 +628,10 @@ const equipos = [
         name: "ULS Varones",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -599,6 +667,10 @@ const equipos = [
         name: "ULS Damas",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -634,6 +706,10 @@ const equipos = [
         name: "UCN Varones",
         ciudad: "Coquimbo",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -669,6 +745,10 @@ const equipos = [
         name: "UCN Damas",
         ciudad: "Coquimbo",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -704,6 +784,10 @@ const equipos = [
         name: "UCEN Varones",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -739,6 +823,10 @@ const equipos = [
         name: "UCEN Damas",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -774,6 +862,10 @@ const equipos = [
         name: "UALBA Varones",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -809,6 +901,10 @@ const equipos = [
         name: "UALBA Damas",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -844,6 +940,10 @@ const equipos = [
         name: "UST Varones",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "varones",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "Joel",
@@ -879,6 +979,10 @@ const equipos = [
         name: "UST Damas",
         ciudad: "La Serena",
         tipo: "universidad",
+        genero: "damas",
+        categoria: "universitario",
+        instagram: "",
+        youtube: "",
         jugadores: {
             jugador_1: {
                 nombre: "",
