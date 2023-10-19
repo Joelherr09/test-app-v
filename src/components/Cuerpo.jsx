@@ -37,10 +37,10 @@ function Cuerpo() {
 
 
       <div class="Hero">
-        <iframe width="100%" height="400" src="https://www.youtube.com/embed/oIm9pPpjgjY" title="XVI Copa Panamericana NORCECA de Voleibol Varonil. CUARTOS DE FINAL ▶️ En vivo | COLOMBIA VS CHILE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="400" src="https://www.youtube.com/embed/B8dxb1zoTpA" title="TC Varones CVC vs Golden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
 
-
+ 
 
     
     </>

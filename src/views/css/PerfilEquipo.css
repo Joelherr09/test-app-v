@@ -2,11 +2,11 @@
 .ContainerTopEquipo{
     margin-top: 0px;
     background-color: rgb(98, 179, 255);
-    min-height: 200px;
+    min-height: 150px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
-    padding: 50px 0px;
+    padding: 50px 0px 20px 0px;
     border-bottom: 1px solid rgb(168, 168, 168);
 }
 .FotoPerfilEquipo{

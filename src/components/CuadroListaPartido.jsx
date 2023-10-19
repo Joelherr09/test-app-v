@@ -6,7 +6,10 @@ function CuadroListaPartido(props) {
   return (
     <Link to={`/partidos/${props.id}`}  style={{ textDecoration: "none", color: "black" }}>
         <div className='CuadroListaPartido'>
-            <p>{props.hora}</p>
+            <div className="FechaHoraPartido">
+              <p className='HoraListaPartidos'>{props.hora}</p>
+              <p className='FechaListaPartidos'>{props.fecha}</p>
+            </div>
             <div className="EquiposContraLista">
               <div className="EquipoUnoLista">
                 <h2>{props.title}</h2>

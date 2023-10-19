@@ -6,7 +6,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/cerberus_voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -45,7 +45,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/club_voley_coquimbo/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -84,7 +84,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/club.voleyvalsol/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -123,7 +123,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/clubjogavolei/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -162,7 +162,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/aukanes.volley.clube/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -201,7 +201,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/kau_volley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -240,7 +240,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/planeta_voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -279,7 +279,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/free_voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -318,7 +318,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/legacy_voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -357,7 +357,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/dream_voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -396,7 +396,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/acevoleyovalle/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -435,7 +435,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/clubyesterday_voleibol/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -474,7 +474,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/zen.voley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -513,7 +513,7 @@ const equipos = [
         tipo: "club",
         genero: "",
         categoria: "",
-        instagram: "",
+        instagram: "https://www.instagram.com/ravens_volei/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -552,7 +552,7 @@ const equipos = [
         tipo: "universidad",
         genero: "varones",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/voleibol_ina.cap/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -591,7 +591,7 @@ const equipos = [
         tipo: "universidad",
         genero: "damas",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/voleibol_ina.cap/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -630,7 +630,7 @@ const equipos = [
         tipo: "universidad",
         genero: "varones",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/seleccion.uls.v/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -669,7 +669,7 @@ const equipos = [
         tipo: "universidad",
         genero: "damas",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/seleccion.uls/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -864,7 +864,7 @@ const equipos = [
         tipo: "universidad",
         genero: "varones",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/udalbavoley/",
         youtube: "",
         jugadores: {
             jugador_1: {
@@ -903,7 +903,7 @@ const equipos = [
         tipo: "universidad",
         genero: "damas",
         categoria: "universitario",
-        instagram: "",
+        instagram: "https://www.instagram.com/udalbavoley/",
         youtube: "",
         jugadores: {
             jugador_1: {

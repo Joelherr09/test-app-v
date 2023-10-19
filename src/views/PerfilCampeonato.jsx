@@ -25,11 +25,11 @@ function PerfilCampeonato({campeonato}) {
   
 
   const ListaPartidosCampeonatoSiguientes = partidosSiguientes.map((camp) => {
-      return <CuadroListaPartido title={camp.equipo_1} description={camp.equipo_2} id={camp.id} hora={camp.hora} camp={camp.campeonato} resultadoUno={camp.resultado.equipo_1.sets} resultadoDos={camp.resultado.equipo_2.sets} />
+      return <CuadroListaPartido title={camp.equipo_1} description={camp.equipo_2} id={camp.id} hora={camp.hora} fecha={camp.fecha} camp={camp.campeonato} resultadoUno={camp.resultado.equipo_1.sets} resultadoDos={camp.resultado.equipo_2.sets} />
     })
   const ListaPartidosCampeonatoTerminados = partidosTerminados.map((camp) => {
-    return <CuadroListaPartido title={camp.equipo_1} description={camp.equipo_2} id={camp.id} hora={camp.hora} camp={camp.campeonato} resultadoUno={camp.resultado.equipo_1.sets} resultadoDos={camp.resultado.equipo_2.sets} />
-  })
+      return <CuadroListaPartido title={camp.equipo_1} description={camp.equipo_2} id={camp.id} hora={camp.hora} fecha={camp.fecha} camp={camp.campeonato} resultadoUno={camp.resultado.equipo_1.sets} resultadoDos={camp.resultado.equipo_2.sets} />
+    })
 
 
 

@@ -5,6 +5,7 @@ import Bottombar from '../components/Bottombar'
 import partidos from '../data/partidos'
 import CuadroListaPartido from '../components/CuadroListaPartido'
 import JugadorEquipoVista from '../components/JugadorEquipoVista'
+import { Link } from 'react-router-dom'
 
 function PerfilEquipo({ equipo }) {
 
@@ -16,13 +17,13 @@ function PerfilEquipo({ equipo }) {
     return (p.estado === "proximo")
   })
   const ListaPartidosSiguiente = partidosEquipoSiguiente.map((p) => {
-    return <CuadroListaPartido title={p.equipo_1} description={p.equipo_2} id={p.id} hora={p.hora} camp={p.campeonato} resultadoUno={p.resultado.equipo_1.sets} resultadoDos={p.resultado.equipo_2.sets} />
+    return <CuadroListaPartido title={p.equipo_1} description={p.equipo_2} id={p.id} hora={p.hora} fecha={p.fecha} camp={p.campeonato} resultadoUno={p.resultado.equipo_1.sets} resultadoDos={p.resultado.equipo_2.sets} />
   })
   const partidosEquipoTerminados = partidosEquipo.filter((p) => {
     return (p.estado === "terminado")
   })
   const ListaPartidosTerminados = partidosEquipoTerminados.map((p) => {
-    return <CuadroListaPartido title={p.equipo_1} description={p.equipo_2} id={p.id} hora={p.hora} camp={p.campeonato} resultadoUno={p.resultado.equipo_1.sets} resultadoDos={p.resultado.equipo_2.sets} />
+    return <CuadroListaPartido title={p.equipo_1} description={p.equipo_2} id={p.id} hora={p.hora} fecha={p.fecha} camp={p.campeonato} resultadoUno={p.resultado.equipo_1.sets} resultadoDos={p.resultado.equipo_2.sets} />
   })
   
 
@@ -35,7 +36,7 @@ function PerfilEquipo({ equipo }) {
         </div>
         <div className="InfoPerfilEquipo">
           <strong><p>{equipo.name}</p></strong>
-          <p>Instagram</p>
+          <Link to={equipo.instagram} style={{ textDecoration: "none", color: "blue" }}><p>Instagram</p></Link>
           <p>{equipo.ciudad}</p>
         </div>
       </div>
