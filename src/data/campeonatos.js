@@ -3,7 +3,7 @@ const campeonatos = [
         id: "1",
         nombre: "Liga De Educación Superior Varones",
         estado: "En curso",
-        premio: "$300.000",
+        premio: "-",
         ciudad: "La Serena",
         siglas: "LDESV",
         participantes: {
@@ -32,7 +32,7 @@ const campeonatos = [
         id: "2",
         nombre: "Liga De Educación Superior Damas",
         estado: "En curso",
-        premio: "$300.000",
+        premio: "-",
         ciudad: "La Serena",
         siglas: "LDESD",
         participantes: {
