@@ -879,6 +879,9 @@ const equipos = [
                 camisera: "8",
             },
         },
+        entrenadores:{
+            entrenador1: "Onur",
+        }
     }
 ];
 

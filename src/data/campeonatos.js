@@ -8,7 +8,7 @@ const campeonatos = [
         siglas: "LDESV",
         participantes: {
             equipo_1: {
-                name: "Inacap Varone",
+                name: "Inacap Varones",
             },
             equipo_2: {
                 name: "ULS Varones",
