@@ -36,7 +36,7 @@ function PerfilEquipo({ equipo }) {
         </div>
         <div className="InfoPerfilEquipo">
           <strong><p>{equipo.name}</p></strong>
-          <Link to={equipo.instagram} style={{ textDecoration: "none", color: "blue" }}><p>Instagram</p></Link>
+          <Link to={equipo.instagram} target='blank' style={{ textDecoration: "none", color: "blue" }}><p>Instagram</p></Link>
           <p>{equipo.ciudad}</p>
         </div>
       </div>
