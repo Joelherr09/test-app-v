@@ -60,12 +60,14 @@
     padding: 0px 8px;
     width: 92px;
 }
+.FechaHoraPartido p{
+    font-size: 0.9rem;
+}
 .FechaListaPartidos{
     display: flex;
     align-items: center;
     justify-content: center;
     color: rgb(71, 71, 71);
-    font-size: 0.4rem;
     width: 100%;
 }
 .HoraListaPartidos{
@@ -73,6 +75,5 @@
     align-items: center;
     justify-content: center;
     color: rgb(0, 0, 0);
-    font-size: 0.5rem;
     width: 100%;
 }
