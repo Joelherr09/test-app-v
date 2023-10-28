@@ -353,7 +353,7 @@ const equipos = [
     {
         id: "10",
         name: "Club Dream Voley",
-        ciudad: "Coquimbo",
+        ciudad: "Vallenar",
         tipo: "club",
         genero: "",
         categoria: "",

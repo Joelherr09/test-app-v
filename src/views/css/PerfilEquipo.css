@@ -10,11 +10,15 @@
     border-bottom: 1px solid rgb(168, 168, 168);
 }
 .FotoPerfilEquipo{
-    min-height: 100px;
-    min-width: 100px;
-    background-color: aliceblue;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/25/25437.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     margin-left: 10px;
     border: 1px solid gray;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
 }
 .InfoPerfilEquipo{
     margin-left: 20px;
@@ -51,7 +55,10 @@
     margin: 4px;
 }
 .FotoPerfilJugador{
-    background-color: antiquewhite;
+    background-image: url(https://img.freepik.com/vector-premium/icono-avatar-masculino-persona-desconocida-o-anonima-icono-perfil-avatar-predeterminado-usuario-redes-sociales-hombre-negocios-silueta-perfil-hombre-aislado-sobre-fondo-blanco-ilustracion-vectorial_735449-120.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     border: 1px solid gray;
     min-width: 50px;
     min-height: 50px;
