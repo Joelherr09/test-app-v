@@ -10,7 +10,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -49,7 +49,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -88,7 +88,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -127,7 +127,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -166,7 +166,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -205,7 +205,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -244,7 +244,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -283,7 +283,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -322,7 +322,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -361,7 +361,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -400,7 +400,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -439,7 +439,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -478,7 +478,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -517,7 +517,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -556,7 +556,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -595,7 +595,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -634,7 +634,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -673,7 +673,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -712,7 +712,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -751,7 +751,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -790,7 +790,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -829,7 +829,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -868,7 +868,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -907,7 +907,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
@@ -946,7 +946,7 @@ const equipos = [
         youtube: "",
         jugadores: {
             jugador_1: {
-                nombre: "Joel",
+                nombre: "Lucas",
                 camisera: "9",
             },
             jugador_2: {
