@@ -13,7 +13,7 @@ function Cuerpo() {
   });
 
   const ListaPartidosDos = partidos.filter((p) => p.estado === "terminado");
-  const ListaPartidosTerminados = ListaPartidosDos.slice(0, 8).map((p) => {
+  const ListaPartidosTerminados = ListaPartidosDos.slice(0, 8).reverse().map((p) => {
     return <CuadroPartidoTerminado title={p.equipo_1} description={p.equipo_2} id={p.id} hora={p.hora} fecha={p.fecha} campeonato={p.campeonato} resultado={p.resultado}/>  ;
   });
 

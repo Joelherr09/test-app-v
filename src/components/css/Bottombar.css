@@ -2,20 +2,63 @@
   background-color: rgb(43, 97, 245);
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   height:60px;
   margin-top: 60vh;
   position: fixed;
   bottom: 0;
   width: 100%;
+  
 
 }
 .bottombar a{
   display: flex;
   text-align: center;
-  justify-content: space-around;
-  padding: 0px 20px;
   text-decoration: none;
   color: white;
-  font-size: 1.2em;
+  font-size: 1.0em;
+}
+.NoTienesCuenta{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.NoCuenta{
+  margin: 0px;
+  font-size: 1.1rem;
+  color: red;
+}
+.OlvidasteTuCuenta{
+  margin: 0;
+  font-size: 0.9rem;
+  color: rgb(255, 255, 255);
+}
+.BotonesAuth{
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+}
+.BotonesAuth button{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-registrarse{
+  width: 80px;
+  margin: 0px 4px;
+  padding: 10px 16px;
+  background-color: red;
+  border: none;
+  color: white;
+}
+.btn-entrar{
+  width: 80px;
+  margin: 0px 6px;
+  padding: 6px 10px;
+  border: none;
+  color: blue;
 }
