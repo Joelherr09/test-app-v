@@ -1,4 +1,5 @@
 import './css/Bottombar.css'
+import { Link } from 'react-router-dom'
 
 
 // Hay que hacer que dependiendo de si el usuario
@@ -18,15 +19,23 @@ function Bottombar() {
     <>
       <div >
         <nav class="bottombar">
+
           <div className="NoTienesCuenta">
             <p className='NoCuenta'> <strong>No tienes cuenta?</strong></p>
             <p className='OlvidasteTuCuenta'>Olvidaste tu cuenta?</p>
           </div>
           <div className="BotonesAuth">
-            <button className='btn-registrarse'><strong>Regístrate</strong></button>
+            <Link to={`/registro/`}  style={{ textDecoration: "none", color: "black" }}>
+              <button className='btn-registrarse'><strong>Regístrate</strong></button>
+            </Link>
+            
             <br />
-            <button className='btn-entrar'>Entra</button>
+            <Link to={`/login/`}  style={{ textDecoration: "none", color: "black" }}>
+              <button className='btn-entrar'>Entra</button>
+            </Link>
+            
           </div>
+
         </nav>
       </div>
 
