@@ -1,15 +1,18 @@
 import React, { useState, useEffect } from "react";
+import axios from "axios";
 
 const ContadorVisitas = ({ pageTitle }) => {
   const [visits, setVisits] = useState(0);
 
   useEffect(() => {
-    setVisits(visits + 1);
+    axios.get("/api/visits").then((response) => {
+      setVisits(response.data.visits);
+    });
   }, []);
 
   return (
     <div>
-      <h3>Número de visitas: {visits}</h3>
+      <h1>Número de visitas: {visits}</h1>
     </div>
   );
 };
