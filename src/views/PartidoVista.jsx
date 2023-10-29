@@ -10,7 +10,7 @@ function PartidoVista({partido}) {
   const campeonato = campeonatos.find((c) => c.siglas === partido.campeonato);
   
   return (
-    <div>
+    <div className='cuerpo-partido-vista'>
         <Navbar/>
         
         <div className='PartidoVistaCuerpo'>

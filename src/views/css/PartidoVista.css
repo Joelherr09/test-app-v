@@ -1,3 +1,6 @@
+.cuerpo-partido-vista{
+    min-height: 100vh;
+}
 .PartidoVistaCuerpo{
     margin-top: 80px;
     padding: 0px 20px;
