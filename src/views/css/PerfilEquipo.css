@@ -1,4 +1,6 @@
-
+.CuerpoPerfilEquipo{
+    min-height: 100vh;
+}
 .ContainerTopEquipo{
     margin-top: 0px;
     background-color: rgb(98, 179, 255);

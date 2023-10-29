@@ -21,24 +21,23 @@ function Cuerpo() {
 
   return (
     <>
+    <section className='section-cuerpo'>
       <div class="PrimerCuadro">
-        <h3>Partidos Siguientes</h3>
-        <div class="PartidosSiguientes">
-          {ListaPartidosSiguientes}
+          <h3>Partidos Siguientes</h3>
+          <div class="PartidosSiguientes">
+            {ListaPartidosSiguientes}
+          </div>
         </div>
-      </div>
-
-      <div class="SegundoCuadro">
-        <h3>Partidos Terminados</h3>
-        <div class="PartidosSiguientes">
-          {ListaPartidosTerminados}
+        <div class="SegundoCuadro">
+          <h3>Partidos Terminados</h3>
+          <div class="PartidosSiguientes">
+            {ListaPartidosTerminados}
+          </div>
         </div>
-      </div>
-
-
-      <div class="Hero">
-        <iframe width="100%" height="400" src="https://www.youtube.com/embed/B8dxb1zoTpA" title="TC Varones CVC vs Golden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
+        <div class="Hero">
+          <iframe width="100%" height="400" src="https://www.youtube.com/embed/B8dxb1zoTpA" title="TC Varones CVC vs Golden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </section>
 
  
 
