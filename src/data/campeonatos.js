@@ -56,7 +56,36 @@ const campeonatos = [
             }
         }
 
-    }
+    },
+    {
+        id: "3",
+        nombre: "Pueblito Voley: Cartelera Deportiva",
+        estado: "En curso",
+        premio: "-",
+        ciudad: "Peñuelas",
+        siglas: "CDPV",
+        participantes: {
+            equipo_1: {
+                name: "",
+            },
+            equipo_2: {
+                name: "",
+            },
+            equipo_3: {
+                name: "",
+            },
+            equipo_4: {
+                name: "",
+            },
+            equipo_5: {
+                name: "",
+            },
+            equipo_6: {
+                name: "",
+            }
+        }
+
+    },
 ]
 
 export default campeonatos

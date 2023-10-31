@@ -161,6 +161,26 @@ const partidos = [
     },
     {
         id: 9,
+        equipo_1: "Cuadrangular Familiar",
+        equipo_2: "1 Adulto/1 niño",
+        fecha: "04-11-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
         equipo_1: "UALBA Damas",
         equipo_2: "Inacap Damas",
         fecha:"04-11-2023",
@@ -200,6 +220,86 @@ const partidos = [
         },
     },
     {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Damas",
+        fecha: "05-11-2023",
+        hora: "10:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Varones",
+        fecha: "05-11-2023",
+        hora: "11:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Damas",
+        fecha: "05-11-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Varones",
+        fecha: "05-11-2023",
+        hora: "17:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
         id: 11,
         equipo_1: "UCEN Varones",
         equipo_2: "ULS Varones",
@@ -208,6 +308,46 @@ const partidos = [
         lugar: "Techado TB",
         estado: "proximo",
         campeonato: "LDESV",
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "11-11-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "11-11-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -340,6 +480,146 @@ const partidos = [
         },
     },
     {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "12-11-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "12-11-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular Playa Mixto",
+        equipo_2: "Pueblito Voley",
+        fecha: "18-11-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Damas",
+        fecha: "19-11-2023",
+        hora: "10:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Varones",
+        fecha: "19-11-2023",
+        hora: "11:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Damas",
+        fecha: "19-11-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Varones",
+        fecha: "19-11-2023",
+        hora: "17:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
         id: 18,
         equipo_1: "Inacap Varones",
         equipo_2: "ULS Varones",
@@ -348,6 +628,46 @@ const partidos = [
         lugar: "Techado TB",
         estado: "proximo",
         campeonato: "LDESV",
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "25-11-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "25-11-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
@@ -458,7 +778,387 @@ const partidos = [
                 sets: 0,
             },
         },
-    }
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "26-11-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "26-11-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular Familiar",
+        equipo_2: "1 Adulto/1 niño",
+        fecha: "02-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Damas",
+        fecha: "03-12-2023",
+        hora: "10:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Varones",
+        fecha: "03-12-2023",
+        hora: "11:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Damas",
+        fecha: "03-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Varones",
+        fecha: "03-12-2023",
+        hora: "17:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular",
+        equipo_2: "Damas +40",
+        fecha: "08-12-2023",
+        hora: "10:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular",
+        equipo_2: "Varones +40",
+        fecha: "08-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "09-12-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "09-12-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Damas",
+        equipo_2: "Pueblito Voley",
+        fecha: "10-12-2023",
+        hora: "09:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Torneo Playa Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "10-12-2023",
+        hora: "09:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular Playa Mixto",
+        equipo_2: "Pueblito Voley",
+        fecha: "16-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Damas",
+        fecha: "17-12-2023",
+        hora: "10:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Varones",
+        fecha: "17-12-2023",
+        hora: "11:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Damas",
+        fecha: "17-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Reinas y Reyes de la Cancha",
+        equipo_2: "Sub17 Varones",
+        fecha: "17-12-2023",
+        hora: "17:30",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
+        id: 9,
+        equipo_1: "Cuadrangular Varones",
+        equipo_2: "Pueblito Voley",
+        fecha: "23-12-2023",
+        hora: "16:00",
+        lugar: "Pueblito Voley",
+        estado: "proximo",
+        campeonato: "CDPV",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
 ]
 
 export default partidos
