@@ -82,7 +82,7 @@ const partidos = [
     {
         id: 4,
         equipo_1: "Team Voley Puni",
-        equipo_2: "Club Ace Voley Ovalle",
+        equipo_2: "Club Ace Voley",
         fecha: "04-11-2023",
         hora: "09:00",
         lugar: "Punitaqui, Liceo Alberto Gallardo Lorca",

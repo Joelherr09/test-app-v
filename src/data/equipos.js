@@ -391,7 +391,7 @@ const equipos = [
     },
     {
         id: "11",
-        name: "Club Ace Voley Ovalle",
+        name: "Club Ace Voley",
         ciudad: "Ovalle",
         tipo: "club",
         genero: "",
