@@ -80,6 +80,26 @@ const partidos = [
         },
     },
     {
+        id: 4,
+        equipo_1: "Team Voley Puni",
+        equipo_2: "Club Ace Voley Ovalle",
+        fecha: "04-11-2023",
+        hora: "09:00",
+        lugar: "Punitaqui, Liceo Alberto Gallardo Lorca",
+        estado: "proximo",
+        campeonato: "Amistoso",        
+        resultado: {
+            equipo_1: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+            equipo_2: {
+                puntos: [0, 0, 0],
+                sets: 0,
+            },
+        },
+    },
+    {
         id: 5,
         equipo_1: "UALBA Damas",
         equipo_2: "UST Damas",

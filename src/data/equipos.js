@@ -547,6 +547,45 @@ const equipos = [
     },
     {
         id: "15",
+        name: "Team Voley Puni",
+        ciudad: "Punitaqui",
+        tipo: "club",
+        genero: "",
+        categoria: "",
+        instagram: "https://www.instagram.com/teamvoleypunitvp/",
+        youtube: "",
+        jugadores: {
+            jugador_1: {
+                nombre: "Lucas",
+                camisera: "9",
+            },
+            jugador_2: {
+                nombre: "Axel",
+                camisera: "3",
+            },
+            jugador_3: {
+                nombre: "José",
+                camisera: "1",
+            },
+            jugador_4: {
+                nombre: "Dante",
+                camisera: "12",
+            },
+            jugador_5: {
+                nombre: "Carlos",
+                camisera: "5",
+            },
+            jugador_6: {
+                nombre: "Andrés",
+                camisera: "8",
+            },
+        },
+        entrenadores:{
+            entrenador1: "Onur",
+        }
+    },
+    {
+        id: "1",
         name: "Inacap Varones",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -585,7 +624,7 @@ const equipos = [
         }
     },
     {
-        id: "16",
+        id: "2",
         name: "Inacap Damas",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -624,7 +663,7 @@ const equipos = [
         }
     },
     {
-        id: "17",
+        id: "3",
         name: "ULS Varones",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -663,7 +702,7 @@ const equipos = [
         }
     },
     {
-        id: "18",
+        id: "4",
         name: "ULS Damas",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -702,7 +741,7 @@ const equipos = [
         }
     },
     {
-        id: "19",
+        id: "5",
         name: "UCN Varones",
         ciudad: "Coquimbo",
         tipo: "universidad",
@@ -741,7 +780,7 @@ const equipos = [
         }
     },
     {
-        id: "20",
+        id: "6",
         name: "UCN Damas",
         ciudad: "Coquimbo",
         tipo: "universidad",
@@ -780,7 +819,7 @@ const equipos = [
         }
     },
     {
-        id: "21",
+        id: "7",
         name: "UCEN Varones",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -819,7 +858,7 @@ const equipos = [
         }
     },
     {
-        id: "22",
+        id: "8",
         name: "UCEN Damas",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -858,7 +897,7 @@ const equipos = [
         }
     },
     {
-        id: "23",
+        id: "9",
         name: "UALBA Varones",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -897,7 +936,7 @@ const equipos = [
         }
     },
     {
-        id: "24",
+        id: "10",
         name: "UALBA Damas",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -936,7 +975,7 @@ const equipos = [
         }
     },
     {
-        id: "25",
+        id: "11",
         name: "UST Varones",
         ciudad: "La Serena",
         tipo: "universidad",
@@ -975,7 +1014,7 @@ const equipos = [
         }
     },
     {
-        id: "26",
+        id: "12",
         name: "UST Damas",
         ciudad: "La Serena",
         tipo: "universidad",
