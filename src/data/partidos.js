@@ -60,7 +60,7 @@ const partidos = [
         },
     },
     {
-        id: 4,
+        id: "4",
         equipo_1: "UCN Damas",
         equipo_2: "ULS Damas",
         fecha: "04-11-2023",
@@ -80,7 +80,7 @@ const partidos = [
         },
     },
     {
-        id: 5,
+        id: "5",
         equipo_1: "Team Voley Puni",
         equipo_2: "Club Ace Voley",
         fecha: "04-11-2023",
@@ -100,7 +100,7 @@ const partidos = [
         },
     },
     {
-        id: 6,
+        id: "6",
         equipo_1: "UALBA Damas",
         equipo_2: "UST Damas",
         fecha: "04-11-2023",
@@ -120,7 +120,7 @@ const partidos = [
         },
     },
     {
-        id: 7,
+        id: "7",
         equipo_1: "Inacap Damas",
         equipo_2: "UCEN Damas",
         fecha:"04-11-2023",
