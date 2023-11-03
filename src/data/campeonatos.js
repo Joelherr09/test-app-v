@@ -86,6 +86,35 @@ const campeonatos = [
         }
 
     },
+    {
+        id: "4",
+        nombre: "Amistosos",
+        estado: "En curso",
+        premio: "-",
+        ciudad: "Punitaqui",
+        siglas: "Amistoso",
+        participantes: {
+            equipo_1: {
+                name: "Team Voley Puni",
+            },
+            equipo_2: {
+                name: "Club Ace Voley",
+            },
+            equipo_3: {
+                name: "",
+            },
+            equipo_4: {
+                name: "",
+            },
+            equipo_5: {
+                name: "",
+            },
+            equipo_6: {
+                name: "",
+            }
+        }
+
+    },
 ]
 
 export default campeonatos
