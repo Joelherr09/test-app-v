@@ -166,7 +166,7 @@ const partidos = [
         fecha:"04-11-2023",
         hora: "15:00",
         lugar: "Polideportivo",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "LDESV",
         resultado: {
             equipo_1: {
