@@ -86,7 +86,7 @@ const partidos = [
         fecha: "04-11-2023",
         hora: "09:00",
         lugar: "Punitaqui, Liceo Alberto Gallardo Lorca",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "Amistoso",        
         resultado: {
             equipo_1: {
@@ -106,7 +106,7 @@ const partidos = [
         fecha: "04-11-2023",
         hora: "10:30",
         lugar: "Polideportivo",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "LDESD",
         resultado: {
             equipo_1: {
@@ -126,7 +126,7 @@ const partidos = [
         fecha:"04-11-2023",
         hora: "12:00",
         lugar: "Polideportivo",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "LDESD",
         resultado: {
             equipo_1: {
@@ -135,7 +135,7 @@ const partidos = [
             },
             equipo_2: {
                 puntos: [0, 0, 0],
-                sets: 0,
+                sets: 2,
             },
         },
     },
@@ -146,7 +146,7 @@ const partidos = [
         fecha:"04-11-2023",
         hora: "13:30",
         lugar: "Polideportivo",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "LDESV",
         resultado: {
             equipo_1: {
@@ -155,7 +155,7 @@ const partidos = [
             },
             equipo_2: {
                 puntos: [0, 0, 0],
-                sets: 0,
+                sets: 2,
             },
         },
     },
