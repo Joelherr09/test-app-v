@@ -175,7 +175,7 @@ const partidos = [
             },
             equipo_2: {
                 puntos: [0, 0, 0],
-                sets: 0,
+                sets: 2,
             },
         },
     },
