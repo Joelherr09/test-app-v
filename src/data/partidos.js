@@ -66,16 +66,16 @@ const partidos = [
         fecha: "04-11-2023",
         hora: "09:00",
         lugar: "Polideportivo",
-        estado: "proximo",
+        estado: "terminado",
         campeonato: "LDESD",        
         resultado: {
             equipo_1: {
                 puntos: [0, 0, 0],
-                sets: 0,
+                sets: 2,
             },
             equipo_2: {
                 puntos: [0, 0, 0],
-                sets: 0,
+                sets: 1,
             },
         },
     },
