@@ -1,6 +1,6 @@
 .CuadroPartido{
     background-color: aliceblue;
-    height: 96px;
+    min-height: 96px;
     min-width: 180px;
     display: block;
     margin: 10px 0px 0px 10px;
